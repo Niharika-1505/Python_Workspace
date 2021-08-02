@@ -1,5 +1,6 @@
 c = 20
 d = 10
+e, f = 30, 40
 
 
 def add(a, b):
@@ -26,3 +27,4 @@ funcs = [add, sub, mul, div, per]
 
 for result in funcs:
     print(result(c, d))
+    print(result(e, f))
