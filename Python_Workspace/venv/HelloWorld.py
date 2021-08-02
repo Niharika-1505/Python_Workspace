@@ -1,1 +1,1 @@
-print("Hello World is a sample program")
+print("Hello World")
