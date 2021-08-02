@@ -28,3 +28,6 @@ funcs = [add, sub, mul, div, per]
 for result in funcs:
     print(result(c, d))
     print(result(e, f))
+
+firstName, lastName = "Niharika", "Gadde"
+print(firstName+" "+lastName)
