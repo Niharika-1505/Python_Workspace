@@ -13,3 +13,5 @@ print("3.", Value1)
 del Value2
 """Length of tuple"""
 print("4.", len(Value1))
+"""Repeating a tuple"""
+print("5. ", Value1 * 4)
